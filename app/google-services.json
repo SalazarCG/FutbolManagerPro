@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "344249446062",
+    "firebase_url": "https://futbol-manager-aa055-default-rtdb.firebaseio.com",
+    "project_id": "futbol-manager-aa055",
+    "storage_bucket": "futbol-manager-aa055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344249446062:android:c95dfc6eb477217800473f",
+        "android_client_info": {
+          "package_name": "com.proyecto.futbolmanagerpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXtkgUaa5-nZj1RWxQwdg9LE7dUIneMC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.proyecto.futbolmanagerpro.Routs
+package com.proyecto.futbolmanagerpro.Navigation.Model
 
 sealed class Routs (val route:String){
     object Login: Routs("login")
