@@ -2,8 +2,8 @@ package com.proyecto.futbolmanagerpro.Navigation.Model
 
 sealed class Routs (val route:String){
     object Login: Routs("login")
-    object Perfil: Routs("perfil")
-    object Equipo: Routs("equipo")
-    object Partido: Routs("partido")
-    object Estrategia: Routs("estrategia")
+    object Profile: Routs("profile")
+    object Team: Routs("team")
+    object Game: Routs("game")
+    object Strategy: Routs("strategy")
 }
